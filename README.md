@@ -1,4 +1,4 @@
-# Desktop Chat Application ChitChatHub
+# Desktop Chat Application - ChitChatHub
 
 A simple desktop chat application built using React for the front end and Spring Boot for the REST API.
 
