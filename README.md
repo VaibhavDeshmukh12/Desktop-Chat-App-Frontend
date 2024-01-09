@@ -4,7 +4,7 @@ A simple desktop chat application built using React for the front end and Spring
 
 ## Features
 
-- chat functionality
+- Chat functionality
 - User authentication
 - Interactive design
 - User-friendly interface
