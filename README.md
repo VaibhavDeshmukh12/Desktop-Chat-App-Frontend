@@ -66,6 +66,6 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## Acknowledgments
 
-- Special thanks to the [Spring Boot](https://spring.io/guides/gs/spring-boot/) guides.
+- Special thanks to the [Spring Boot](https://spring.io/guides/gs/spring-boot/) guides, [MUI](https://mui.com/) and [Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app)
 
 Happy chatting!
