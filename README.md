@@ -52,7 +52,7 @@ Make sure you have the following installed on your machine:
     run spring boot app
     ```
 
-    The Spring Boot server will start at [http://localhost:8080](http://localhost:8080).
+    The Spring Boot server will start at [http://localhost:8080](http://localhost:9090).
 
 4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use the chat application.
 
